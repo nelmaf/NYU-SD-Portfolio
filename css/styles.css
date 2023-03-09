@@ -1,6 +1,28 @@
 body {
-    background-image: url("./images/coding-portfolio.jpeg");
+    background-image: url("../images/back4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .container {
+    width: 800px;
+    margin-left: 200px;
+  }
+  div{
+    color: lightgreen;
+  }
+
+  h1 {
+    color:rgb(73, 148, 214);
+  }
+  h2 {
+    color:aquamarine;
+    font-style: bold;
+
+  }
+h3 {
+    color:darkgreen;
+    font-style: bold;
 }
+  p {
+    text-align: justify;
+  }
