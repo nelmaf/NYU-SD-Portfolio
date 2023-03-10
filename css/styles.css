@@ -21,13 +21,13 @@ body {
     color:rgb(73, 148, 214);
   }
   h2 {
-    color:aquamarine;
+    color: whitesmoke;
     font-style: bold;
-
   }
 h3 {
     color:rgb(100, 0, 0);
     font-style: bold;
+    text-decoration: underline; 
 }
   p {
     text-align: justify;
